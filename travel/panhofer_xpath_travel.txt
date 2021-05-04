@@ -9,6 +9,7 @@ Hinweis: Verwenden Sie die travel.xml Datei als Ausgangspunkt.
 
 XPath: /travelAgency/sportcamps/summercamp
 
+/child::travelAgencies/child::sportcamps/child::summercamp
 
 
 
@@ -23,6 +24,7 @@ Hinweis: Verwenden Sie die travel.xml Datei als Ausgangspunkt.
 
 //summercamp/@id
 
+/descendant::summercamp/@id
 
 
 
@@ -36,6 +38,8 @@ Hinweis: Verwenden Sie die travel.xml Datei als Ausgangspunkt.
 
 
 /travelAgency/.
+
+/child::travelAgency/self::node()
 
 
 
@@ -51,6 +55,8 @@ Hinweis: Verwenden Sie die travel.xml Datei als Ausgangspunkt.
 
 //summercamp/*
 
+/descendant::summercamp/child::*
+
 
 
 
@@ -65,7 +71,7 @@ Hinweis: Verwenden Sie die travel.xml Datei als Ausgangspunkt.
 
 //sportcamps/*[@id = //booking[@date]/@campid]
 
-
+/descandant::sportcamps/child::*[@id = /descendant::booking[@date]/@campid]
 
 
 -- -------------------------------------------------------------------------------------- --
@@ -78,3 +84,5 @@ Hinweis: Verwenden Sie die travel.xml Datei als Ausgangspunkt.
 
 
 //customer[@id = //booking/@customerid]/text()
+
+/descendant::customer[@id = /descendant::booking/@customerid]/child::text()

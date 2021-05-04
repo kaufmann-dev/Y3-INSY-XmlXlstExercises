@@ -5,6 +5,8 @@ Finden Sie die Eltern von George Washington.
 
 Hinweis: Verwenden Sie die family.xml Datei als Ausgangspunkt.
 
+//person[name = "George Washington"]/parents/person/name/text()
+
 
 -- -------------------------------------------------------------------------------------- --
 --    2.Beispiel
@@ -14,6 +16,7 @@ den Namen der Person zurück.
 
 Hinweis: Verwenden Sie die family.xml Datei als Ausgangspunkt.
 
+//person[name="George Washington"]//parents/person[gender="male"]/name/text()
 
 
 -- -------------------------------------------------------------------------------------- --
@@ -22,5 +25,6 @@ Hinweis: Verwenden Sie die family.xml Datei als Ausgangspunkt.
 Finden Sie den den männlichen Nachfahren von George Washington
 Generationen in der
 
-
 Hinweis: Verwenden Sie die family.xml Datei als Ausgangspunkt.
+
+//person[name="George Washington"]//person[gender="male"]
