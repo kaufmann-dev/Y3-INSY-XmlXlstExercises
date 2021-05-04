@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+    <group id="1">
+        <team code="FRA" round="5"/>
+        <team code="SPA" round="2"/>
+        <team code="GER" round="4"/>
+        <team code="GBS" round="2"/>
+        <team code="POR" round="5"/>
+        <team code="BEL" round="3"/>
+    </group>
+    <group id="2">
+        <team code="ITA" round="3"/>
+        <team code="RUS" round="1"/>
+        <team code="SUI" round="2"/>
+        <team code="AUT" round="1"/>
+        <team code="CRO" round="2"/>
+        <team code="UKR" round="1"/>
+    </group>
+    <group id="3">
+        <team code="CZE" round="1"/>
+        <team code="SWE" round="1"/>
+        <team code="PLA" round="3"/>
+        <team code="ROU" round="1"/>
+        <team code="SVK" round="2"/>
+        <team code="HUN" round="2"/>
+    </group>
+    <group id="4">
+        <team code="TUR" round="1"/>
+        <team code="IRL" round="2"/>
+        <team code="ISL" round="3"/>
+        <team code="WAL" round="4"/>
+        <team code="ALB" round="1"/>
+        <team code="NIR" round="2"/>
+    </group>
+</result>

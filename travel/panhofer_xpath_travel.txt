@@ -1,0 +1,80 @@
+-- -------------------------------------------------------------------------------------- --
+--    1.Beispiel
+-- -------------------------------------------------------------------------------------- --
+Geben Sie für den folgenden XPath Lokalisierungspfad den entsprechenden XPath
+Lokalisierungspfad in Standardform an.
+
+Hinweis: Verwenden Sie die travel.xml Datei als Ausgangspunkt.
+
+
+XPath: /travelAgency/sportcamps/summercamp
+
+
+
+
+-- -------------------------------------------------------------------------------------- --
+--    2.Beispiel
+-- -------------------------------------------------------------------------------------- --
+Geben Sie für den folgenden XPath Lokalisierungspfad den entsprechenden XPath
+Lokalisierungspfad in Standardform an.
+
+Hinweis: Verwenden Sie die travel.xml Datei als Ausgangspunkt.
+
+
+//summercamp/@id
+
+
+
+
+-- ------------------------------------------------------------------------------------- --
+--    3.Beispiel
+-- ------------------------------------------------------------------------------------- --
+Geben Sie für den folgenden XPath Lokalisierungspfad den entsprechenden XPath
+Lokalisierungspfad in Standardform an.
+
+Hinweis: Verwenden Sie die travel.xml Datei als Ausgangspunkt.
+
+
+/travelAgency/.
+
+
+
+
+-- ------------------------------------------------------------------------------------ --
+--    4.Beispiel
+-- ------------------------------------------------------------------------------------ --
+Geben Sie für den folgenden XPath Lokalisierungspfad den entsprechenden XPath
+Lokalisierungspfad in Standardform an.
+
+Hinweis: Verwenden Sie die travel.xml Datei als Ausgangspunkt.
+
+
+//summercamp/*
+
+
+
+
+-- ------------------------------------------------------------------------------------- --
+--    5.Beispiel
+-- ------------------------------------------------------------------------------------- --
+Geben Sie für den folgenden XPath Lokalisierungspfad den entsprechenden XPath
+Lokalisierungspfad in Standardform an.
+
+Hinweis: Verwenden Sie die travel.xml Datei als Ausgangspunkt.
+
+
+//sportcamps/*[@id = //booking[@date]/@campid]
+
+
+
+
+-- -------------------------------------------------------------------------------------- --
+--    6.Beispiel
+-- -------------------------------------------------------------------------------------- --
+Geben Sie für den folgenden XPath Lokalisierungspfad den entsprechenden XPath
+Lokalisierungspfad in Standardform an.
+
+Hinweis: Verwenden Sie die travel.xml Datei als Ausgangspunkt.
+
+
+//customer[@id = //booking/@customerid]/text()

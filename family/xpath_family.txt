@@ -1,0 +1,26 @@
+-- -------------------------------------------------------------------------------------- --
+--    1.Beispiel
+-- -------------------------------------------------------------------------------------- --
+Finden Sie die Eltern von George Washington.
+
+Hinweis: Verwenden Sie die family.xml Datei als Ausgangspunkt.
+
+
+-- -------------------------------------------------------------------------------------- --
+--    2.Beispiel
+-- -------------------------------------------------------------------------------------- --
+Finden Sie alle männlichen Nachfahren von George Washington. Geben Sie jeweils
+den Namen der Person zurück.
+
+Hinweis: Verwenden Sie die family.xml Datei als Ausgangspunkt.
+
+
+
+-- -------------------------------------------------------------------------------------- --
+--    3.Beispiel
+-- -------------------------------------------------------------------------------------- --
+Finden Sie den den männlichen Nachfahren von George Washington
+Generationen in der
+
+
+Hinweis: Verwenden Sie die family.xml Datei als Ausgangspunkt.

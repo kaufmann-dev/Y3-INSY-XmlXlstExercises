@@ -1,0 +1,19 @@
+-- -------------------------------------------------------------------------------------- --
+--    4.Beispiel
+-- -------------------------------------------------------------------------------------- --
+Welche Teams sind in ihrer Gruppe am weitesten gekommen.
+
+
+Hinweis: Verwenden Sie die result.xml Datei als Ausgangspunkt.
+
+
+XPath: //group/team[not(@round < preceding-sibling::team/@round) and not(@round < following-sibling::team/@round)]
+
+
+-- -------------------------------------------------------------------------------------- --
+--    5.Beispiel
+-- -------------------------------------------------------------------------------------- --
+Welche Teams sind ins Finale gekommen.
+
+
+Hinweis: Verwenden Sie die result.xml Datei als Ausgangspunkt.
