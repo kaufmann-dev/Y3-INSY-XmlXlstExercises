@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><positions>
+    <position id="defense">
+        <team code="FRA">
+            <player>Laurent Koscielny</player>
+            <player>Djibril Sidibe</player>
+        </team>
+        <team code="SPA">
+            <player>Jordi Alba</player>
+            <player>Dani Carvajal</player>
+        </team>
+    </position>
+    <position id="playground">
+        <team code="FRA"/>
+        <team code="SPA">
+            <player>Laurent Asensio</player>
+            <player>Laurent Iniesta</player>
+            <player>Laurent Silva</player>
+            <player>Laurent Martinez</player>
+            <player>Laurent Herrera</player>
+        </team>
+        <team code="GER">
+            <player>Laurent Brandt</player>
+            <player>Laurent Can</player>
+            <player>Laurent Khedira</player>
+        </team>
+        <team code="GB">
+            <player>Laurent Cook</player>
+            <player>Laurent Lingard</player>
+        </team>
+        <team code="POR">
+            <player>Laurent Fernandes</player>
+            <player>Laurent Pereira</player>
+            <player>Laurent Fernandes</player>
+        </team>
+        <team code="BEL">
+            <player>Laurent Witsel</player>
+            <player>Laurent Defour</player>
+            <player>Laurent Januzaj</player>
+        </team>
+        <team code="ITA">
+            <player>Laurent Gagliardini</player>
+            <player>Laurent Parolo</player>
+            <player>Laurent Florenzi</player>
+        </team>
+        <team code="RUS">
+            <player>Laurent Gluschakow</player>
+            <player>Laurent Golowin</player>
+            <player>Laurent Jerochin</player>
+        </team>
+        <team code="SUI">
+            <player>Laurent Frei</player>
+            <player>Laurent Zuber</player>
+            <player>Laurent Xhaka</player>
+            <player>Laurent Stocker</player>
+        </team>
+        <team code="AUT">
+            <player>Laurent Alaba</player>
+            <player>Laurent Arnautovic</player>
+            <player>Laurent Schaub</player>
+        </team>
+        <team code="CRO">
+            <player>Laurent Bradaric</player>
+            <player>Laurent Modric</player>
+            <player>Laurent Perisic</player>
+        </team>
+        <team code="UKR">
+            <player>Laurent Zhyankow</player>
+            <player>Laurent Schachow</player>
+            <player>Laurent Konopljanka</player>
+        </team>
+        <team code="CZE">
+            <player>Laurent Husbauer</player>
+            <player>Laurent Barak</player>
+            <player>Laurent Horava</player>
+        </team>
+        <team code="SWE">
+            <player>Laurent Fransson</player>
+            <player>Laurent Lewicki</player>
+            <player>Laurent Sema</player>
+        </team>
+        <team code="PLA">
+            <player>Laurent Zielinski</player>
+            <player>Laurent Goralski</player>
+            <player>Laurent Kurzawa</player>
+        </team>
+        <team code="ROU">
+            <player>Laurent Chipciu</player>
+            <player>Laurent Bicfalvi</player>
+            <player>Laurent Stanciu</player>
+        </team>
+        <team code="SVK">
+            <player>Laurent Mak</player>
+            <player>Laurent Stock</player>
+            <player>Laurent Weis</player>
+        </team>
+        <team code="HUN">
+            <player>Laurent Kleinheisler</player>
+            <player>Laurent Nagy</player>
+        </team>
+        <team code="TUR">
+            <player>Laurent Akbaba</player>
+            <player>Laurent Malli</player>
+            <player>Laurent Under</player>
+        </team>
+        <team code="IRL">
+            <player>Laurent Hayes</player>
+            <player>Laurent Arter</player>
+            <player>Laurent McGeady</player>
+        </team>
+    </position>
+    <position id="attack">
+        <team code="FRA">
+            <player>Laurent Griezmann</player>
+            <player>Laurent Giroud</player>
+            <player>Laurent Fekir</player>
+            <player>Laurent Thauvin</player>
+            <player>Laurent Lacazette</player>
+        </team>
+        <team code="SPA">
+            <player>Laurent Villa</player>
+            <player>Laurent Costa</player>
+            <player>Laurent Vazquez</player>
+            <player>Laurent Aduriz</player>
+        </team>
+        <team code="GER">
+            <player>Laurent Kroos</player>
+            <player>Laurent Müller</player>
+            <player>Laurent Gomez</player>
+        </team>
+        <team code="GB">
+            <player>Laurent Rashford</player>
+            <player>Laurent Vardy</player>
+        </team>
+        <team code="POR">
+            <player>Laurent Silva</player>
+            <player>Laurent Lopes</player>
+        </team>
+        <team code="BEL">
+            <player>Laurent Depoitre</player>
+            <player>Laurent Mirallas</player>
+            <player>Laurent Januzaj</player>
+        </team>
+        <team code="ITA">
+            <player>Laurent Immobile</player>
+            <player>Laurent Zaza</player>
+            <player>Laurent Belotti</player>
+        </team>
+        <team code="RUS">
+            <player>Laurent Bucharow</player>
+            <player>Laurent Polos</player>
+        </team>
+        <team code="SUI">
+            <player>Laurent Derdiyok</player>
+            <player>Laurent Drmic</player>
+            <player>Laurent Embolo</player>
+        </team>
+        <team code="AUT">
+            <player>Laurent Burgstaller</player>
+            <player>Laurent Gregorisch</player>
+            <player>Laurent Janko</player>
+        </team>
+        <team code="CRO">
+            <player>Laurent Santini</player>
+            <player>Laurent Pjaca</player>
+            <player>Laurent Kalinic</player>
+        </team>
+        <team code="UKR">
+            <player>Laurent Bjessjedin</player>
+            <player>Laurent Jarmolinko</player>
+        </team>
+        <team code="CZE">
+            <player>Laurent Kadlex</player>
+            <player>Laurent Kliment</player>
+            <player>Laurent Skoda</player>
+        </team>
+        <team code="SWE">
+            <player>Laurent Andersson</player>
+            <player>Laurent Frick</player>
+            <player>Laurent Isak</player>
+        </team>
+        <team code="PLA">
+            <player>Laurent Lewandowski</player>
+            <player>Laurent Stepinski</player>
+            <player>Laurent Wilczek</player>
+        </team>
+        <team code="ROU">
+            <player>Laurent Ivan</player>
+            <player>Laurent Rotariu</player>
+            <player>Laurent Stancu</player>
+        </team>
+        <team code="SVK">
+            <player>Laurent Duris</player>
+            <player>Laurent Nemec</player>
+        </team>
+        <team code="HUN">
+            <player>Laurent Böde</player>
+            <player>Laurent Gera</player>
+            <player>Laurent Szali</player>
+        </team>
+        <team code="TUR">
+            <player>Laurent Tosun</player>
+            <player>Laurent Unal</player>
+        </team>
+        <team code="IRL">
+            <player>Laurent Long</player>
+            <player>Laurent Hogan</player>
+            <player>Laurent OBrien</player>
+        </team>
+    </position>
+</positions>
