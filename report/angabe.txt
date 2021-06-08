@@ -1,0 +1,37 @@
+ -- -------------------------------------------------------------------------------------- --
+ --   1.Beispiel: XSLT Grundlagen
+ -- -------------------------------------------------------------------------------------- --
+ Schreiben Sie ein XSLT Stylesheet, zur Transformation der report.xml Datei. Die Ausgabedatei
+ hat folgende Struktur (magazin.xml) Datei wird im Beispiel definiert.
+
+ Befehle:
+
+    <xsl:with-param> : Ordnet Kontextelementen eine Konstante zu.
+
+
+ INPUT:    report.xml
+ PROZESS:  text.xsl
+ OUTPUT:   text.xml
+
+
+ <?xml version="1.0" encoding="UTF-8"?>
+ <magazine>
+    <report>
+       <head>
+          <authors>
+             <author>Arthur D. Dent</author>
+             <author>Ford Perfect</author>
+             <author>J.J. R. Tolkien</author>
+          </authors>
+          <pages>23</pages>
+          <url>http://www.htlkrems.at/simcenter</url>
+       </head>
+       <body>
+            <authors>
+                This report is co-authored by Arthur D. Dent and Ford Perfect,
+                sampled by J.J. R. Tolkin.
+            </authors>
+            <content>Simcenter is a unified, scalable, open ... </content>
+        </body/>
+     </report>
+  </magazine>

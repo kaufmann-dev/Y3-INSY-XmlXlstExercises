@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><groups>
+    <group id="1">
+        <team code="FRA"/>
+        <team code="SPA"/>
+        <team code="GER"/>
+        <team code="GBS"/>
+        <team code="POR"/>
+        <team code="BEL"/>
+    </group>
+    <group id="2">
+        <team code="ITA"/>
+        <team code="RUS"/>
+        <team code="SUI"/>
+        <team code="AUT"/>
+        <team code="CRO"/>
+        <team code="UKR"/>
+    </group>
+    <group id="3">
+        <team code="CZE"/>
+        <team code="SWE"/>
+        <team code="PLA"/>
+        <team code="ROU"/>
+        <team code="SVK"/>
+        <team code="HUN"/>
+    </group>
+    <group id="4">
+        <team code="TUR"/>
+        <team code="IRL"/>
+        <team code="ISL"/>
+        <team code="WAL"/>
+        <team code="ALB"/>
+        <team code="NIR"/>
+    </group>
+</groups>
