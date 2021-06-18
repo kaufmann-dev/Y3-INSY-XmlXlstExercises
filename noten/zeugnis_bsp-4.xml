@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><summer-semester>
+    <teachers>
+        <teacher>
+            <name>Johann Haas</name>
+            <symbol>HAAS</symbol>
+        </teacher>
+        <teacher>
+            <name>Georg Riedl</name>
+            <symbol>RIDL</symbol>
+        </teacher>
+        <teacher>
+            <name>Christina Perr</name>
+            <symbol>PERR</symbol>
+        </teacher>
+        <teacher>
+            <name>Lisa Graf</name>
+            <symbol>GRAF</symbol>
+        </teacher>
+        <teacher>
+            <name>Bianca Wegscheider</name>
+            <symbol>WEGS</symbol>
+        </teacher>
+        <teacher>
+            <name>Gabriele Sengstschmid</name>
+            <symbol>SENG</symbol>
+        </teacher>
+        <teacher>
+            <name>Paul Panhofer</name>
+            <symbol>PANH</symbol>
+        </teacher>
+        <teacher>
+            <name>Anton Hauleitner</name>
+            <symbol>HAUL</symbol>
+        </teacher>
+        <teacher>
+            <name>Darth Vader</name>
+            <symbol>VADE</symbol>
+        </teacher>
+    </teachers>
+</summer-semester>

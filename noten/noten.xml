@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<htl year="2020">
+    <!-- Gegenstaende -->
+    <subjects>
+        <subject>
+            <name>Religion</name>
+            <short-name>RK</short-name>
+        </subject>
+        <subject>
+            <name>Deutsch</name>
+            <short-name>D</short-name>
+        </subject>
+        <subject>
+            <name>Lebende Fremdsprache (Englisch)</name>
+            <short-name>E1</short-name>
+        </subject>
+        <subject>
+            <name>Informationssysteme</name>
+            <short-name>INSY</short-name>
+        </subject>
+    </subjects>
+
+    <!-- gesamte Kollegenschaft -->
+    <teachers>
+        <teacher>
+            <first-name>Johann</first-name>
+            <last-name>Haas</last-name>
+            <symbol>HAAS</symbol>
+        </teacher>
+        <teacher>
+            <first-name>Georg</first-name>
+            <last-name>Riedl</last-name>
+            <symbol>RIDL</symbol>
+        </teacher>
+        <teacher>
+            <first-name>Christina</first-name>
+            <last-name>Perr</last-name>
+            <symbol>PERR</symbol>
+        </teacher>
+        <teacher>
+            <first-name>Lisa</first-name>
+            <last-name>Graf</last-name>
+            <symbol>GRAF</symbol>
+        </teacher>
+        <teacher>
+            <first-name>Bianca</first-name>
+            <last-name>Wegscheider</last-name>
+            <symbol>WEGS</symbol>
+        </teacher>
+        <teacher>
+            <first-name>Gabriele</first-name>
+            <last-name>Sengstschmid</last-name>
+            <symbol>SENG</symbol>
+        </teacher>
+        <teacher>
+            <first-name>Paul</first-name>
+            <last-name>Panhofer</last-name>
+            <symbol>PANH</symbol>
+        </teacher>
+        <teacher>
+            <first-name>Anton</first-name>
+            <last-name>Hauleitner</last-name>
+            <symbol>HAUL</symbol>
+        </teacher>
+        <teacher>
+            <first-name>Darth</first-name>
+            <last-name>Vader</last-name>
+            <symbol>VADE</symbol>
+        </teacher>
+    </teachers>
+
+    <!-- Jahrgaenge mit Schuelerinnen und Schueler -->
+    <classes>
+        <class>
+            <name>3AHIT</name>
+            <location>Krems</location>
+            <student>
+                <catalog-number>1</catalog-number>
+                <first-name>Johanna</first-name>
+                <last-name>Bock</last-name>
+            </student>
+            <student>
+                <catalog-number>2</catalog-number>
+                <first-name>Dominik</first-name>
+                <last-name>Ferfecky</last-name>
+            </student>
+            <student>
+                <catalog-number>3</catalog-number>
+                <first-name>Marcel</first-name>
+                <last-name>Genger</last-name>
+            </student>
+            <student>
+                <catalog-number>4</catalog-number>
+                <first-name>Lauter</first-name>
+                <last-name>Schleicher</last-name>
+            </student>
+        </class>
+        <class>
+            <name>3BHIT</name>
+            <location>Krems</location>
+            <student>
+                <catalog-number>1</catalog-number>
+                <first-name>Robin</first-name>
+                <last-name>Adamek</last-name>
+            </student>
+            <student>
+                <catalog-number>2</catalog-number>
+                <first-name>Emanuel</first-name>
+                <last-name>Ardelean</last-name>
+            </student>
+            <student>
+                <catalog-number>3</catalog-number>
+                <first-name>Steven</first-name>
+                <last-name>Bauer</last-name>
+            </student>
+        </class>
+    </classes>
+
+    <!-- Noten pro Jahrgang, Fach, LehrerIn, SchuelerIn -->
+    <summer-semester>
+        <class id="3AHIT">
+            <subject id="RK">
+                <groups>
+                    <group>
+                        <teacher>HAAS</teacher>
+                        <grade>
+                            <school-grade id="1">1</school-grade>
+                            <school-grade id="2">1</school-grade>
+                            <school-grade id="3">2</school-grade>
+                        </grade>
+                    </group>
+                </groups>
+            </subject>
+            <subject id="D">
+                <groups>
+                    <group>
+                        <teacher>PERR</teacher>
+                        <grade>
+                            <school-grade id="1">1</school-grade>
+                            <school-grade id="2">2</school-grade>
+                            <school-grade id="3">3</school-grade>
+                        </grade>
+                    </group>
+                </groups>
+            </subject>
+            <subject id="E1">
+                <groups>
+                    <group>
+                        <teacher>SENG</teacher>
+                        <grades>
+                            <school-grade id="3">1</school-grade>
+                            <school-grade id="2">2</school-grade>
+                            <school-grade id="1">3</school-grade>
+                        </grades>
+                    </group>
+                </groups>
+            </subject>
+            <subject id="INSY">
+                <groups>
+                    <group>
+                        <teacher>PANH</teacher>
+                        <grades>
+                            <school-grade id="1">1</school-grade>
+                            <school-grade id="3">4</school-grade>
+                        </grades>
+                    </group>
+                    <group>
+                        <teacher>HAUL</teacher>
+                        <grades>
+                            <school-grade id="2">5</school-grade>
+                        </grades>
+                    </group>
+                </groups>
+            </subject>
+        </class>
+
+        <class id="3BHIT">
+            <subject id="RK">
+                <groups>
+                    <group>
+                        <teacher>RIDL</teacher>
+                        <grade>
+                            <school-grade id="1">1</school-grade>
+                            <school-grade id="2">1</school-grade>
+                            <school-grade id="3">1</school-grade>
+                        </grade>
+                    </group>
+                </groups>
+            </subject>
+            <subject id="D">
+                <groups>
+                    <group>
+                        <teacher>GRAF</teacher>
+                        <grade>
+                            <school-grade id="1">2</school-grade>
+                            <school-grade id="2">2</school-grade>
+                            <school-grade id="3">2</school-grade>
+                        </grade>
+                    </group>
+                </groups>
+            </subject>
+            <subject id="E1">
+                <groups>
+                    <group>
+                        <teacher>WEGS</teacher>
+                        <grade>
+                            <school-grade id="1">3</school-grade>
+                            <school-grade id="2">3</school-grade>
+                        </grade>
+                    </group>
+                    <group>
+                        <teacher>SENG</teacher>
+                        <grade>
+                            <school-grade id="3">2</school-grade>
+                        </grade>
+                    </group>
+                </groups>
+            </subject>
+        </class>
+
+    </summer-semester>
+</htl>

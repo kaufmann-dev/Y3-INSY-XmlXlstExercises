@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><summer-semester>
+    <classes>
+        <class id="3AHIT">
+            <student>
+                <catalog-number>1</catalog-number>
+                <last-name>Johanna</last-name>
+                <first-name>Bock</first-name>
+                <school-grade id="INSY">1</school-grade>
+            </student>
+            <student>
+                <catalog-number>2</catalog-number>
+                <last-name>Dominik</last-name>
+                <first-name>Ferfecky</first-name>
+                <school-grade id="INSY">5</school-grade>
+            </student>
+            <student>
+                <catalog-number>3</catalog-number>
+                <last-name>Marcel</last-name>
+                <first-name>Genger</first-name>
+                <school-grade id="INSY">4</school-grade>
+            </student>
+            <student>
+                <catalog-number>4</catalog-number>
+                <last-name>Lauter</last-name>
+                <first-name>Schleicher</first-name>
+                <school-grade id="INSY"/>
+            </student>
+        </class>
+        <class id="3BHIT">
+            <student>
+                <catalog-number>1</catalog-number>
+                <last-name>Robin</last-name>
+                <first-name>Adamek</first-name>
+                <school-grade id="INSY"/>
+            </student>
+            <student>
+                <catalog-number>2</catalog-number>
+                <last-name>Emanuel</last-name>
+                <first-name>Ardelean</first-name>
+                <school-grade id="INSY"/>
+            </student>
+            <student>
+                <catalog-number>3</catalog-number>
+                <last-name>Steven</last-name>
+                <first-name>Bauer</first-name>
+                <school-grade id="INSY"/>
+            </student>
+        </class>
+    </classes>
+</summer-semester>
